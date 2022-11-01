@@ -4,7 +4,7 @@
 <h3 align="center">React Developer</h3>
 
 ## About Me:
-#### Always curious to learn cutting edge technology and very enthusiastic about web development. Coding and football boost my adrenaline. Sharpening my Front End Skills for the MERN stack (Personal goal)
+#### Always curious to learn cutting edge technology and very enthusiastic about web development. Coding and football boost my adrenaline. Developing my Front End Skills for the MERN stack (Personal goal)
 <br>
 <br>
 <p align="center">
