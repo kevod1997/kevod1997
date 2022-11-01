@@ -1,3 +1,3 @@
-                                 👋 Hi! I’m Kevin Defalco
+#                                 👋 Hi! I’m Kevin Defalco
 
-                                    REACT DEVELOPER
+##                                    REACT DEVELOPER
