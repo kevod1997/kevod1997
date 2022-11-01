@@ -1,3 +1,3 @@
                                  👋 Hi! I’m Kevin Defalco
 
-                                    React Developer 
+                                    REACT DEVELOPER
