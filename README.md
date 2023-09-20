@@ -46,7 +46,6 @@
 
 <h2> 🤝🏻 Connect with Me </h2><br>
 <p>
-<a href="https://kevindefalcoapp.herokuapp.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.kevindefalcoapp.herokuapp.com-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/kevindefalco/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kevindefalco-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:kevindefalco@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kevindefalco@gmail.com-blue?style=flat&logo=gmail"></a>
 </p><br>
