@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 <h2 align="center">👋 Hi! I’m <a href="https://www.linkedin.com/in/kevindefalco/" target="_blank">Kevin Defalco</a></h2>
 
-<h3 align="center">React Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ## About Me:
 #### Always curious to learn cutting edge technology and very enthusiastic about web development. Coding and football boost my adrenaline. Developing my Front End Skills for the MERN stack (Personal goal)
