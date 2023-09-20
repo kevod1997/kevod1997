@@ -17,6 +17,10 @@
 </p><br>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
+<img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="typescript">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="typescript">
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react">
 </p>
 <p align="center">
